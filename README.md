@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Building a logistic shipping calculation web app.
+
 
 
 Please consider the below factors while contributing
